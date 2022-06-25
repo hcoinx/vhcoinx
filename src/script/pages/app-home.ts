@@ -10,7 +10,7 @@ export class AppHome extends LitElement {
   // check out this link https://lit-element.polymer-project.org/guide/properties#declare-with-decorators
   @property() message: string = "Welcome!";
 
-  static get styles() {
+  static get styles() {https://github.com/users/hcoinx/succession/invitation
     return css`
       #welcomeBar {
         display: flex;
